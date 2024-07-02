@@ -33,6 +33,10 @@ nav ul{
   font-weight: 600;
 }
 
+#logos{
+  cursor: pointer;
+}
+
 button{
   all: unset;
   height: 32px;
@@ -41,6 +45,7 @@ button{
   padding: 6px 16px;
   font-weight: 500;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .hero{
